@@ -69,31 +69,52 @@ Data cleaning and preparation were performed using Python and Pandas.
 * Quarterly and monthly trends revealed seasonal variations in sales activity.
 ---
 
-
 ## Power BI Dashboard
 
-Power BI dashboard development is currently in progress.
+An interactive Power BI dashboard was developed to transform the cleaned dataset and SQL findings into business-focused visual insights.
 
-Planned dashboard features:
+### Dashboard Features
 
-* KPI Cards
+#### KPI Metrics
 
-  * Total Sales
-  * Total Orders
-  * Average Order Value
-  * Total Customers
+* Total Sales
+* Total Customers
+* Total Orders
+* Average Order Value
 
-* Sales Trend Analysis
+#### Sales Performance Analysis
 
-* Category Performance Analysis
+* Monthly Sales Trend
+* Total Sales by Quarter
+* Total Sales by Category
+* Total Sales by Region
+* Total Sales by Customer Segment
 
-* Regional Sales Analysis
+#### Customer & Product Analysis
 
-* Customer Segment Analysis
+* Top 10 Customers by Revenue
+* Top 10 Cities by Sales
+* Best-Selling Products by Revenue
 
-* Top Products Analysis
+#### Interactive Filtering
 
-* Top Customers Analysis
+Users can dynamically filter the dashboard using:
+
+* Year
+* Month
+
+### Key Dashboard Insights
+
+* Technology generated the highest sales revenue among all product categories.
+* The West region contributed the largest share of total sales.
+* Consumer customers accounted for over half of total sales revenue.
+* Revenue was concentrated among a relatively small number of products and customers.
+* Sales demonstrated an overall upward trend across the analyzed time period.
+* Fourth quarter sales significantly outperformed earlier quarters, indicating strong year-end demand.
+
+### Dashboard Preview
+
+The dashboard provides an interactive view of sales performance, customer behavior, regional trends, and product performance, allowing users to explore the data from multiple business perspectives.
 
 ---
 
