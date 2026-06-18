@@ -69,28 +69,6 @@ Data cleaning and preparation were performed using Python and Pandas.
 * Quarterly and monthly trends revealed seasonal variations in sales activity.
 ---
 
-## Project Structure
-
-```text
-superstoredataanalysis-/
-│
-├── data/
-│   └── cleaned_superstore.csv
-│
-├── notebooks/
-│   └── data_cleaning.ipynb
-│
-├── sql/
-│   └── business_analysis.sql
-│
-├── dashboard/
-│   └── superstore_dashboard.pbix
-│
-├── images/
-│   └── dashboard_screenshot.png
-│
-└── README.md
-```
 
 ## Power BI Dashboard
 
